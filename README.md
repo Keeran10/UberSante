@@ -9,13 +9,6 @@ Walk-in clinic hours are from __8 AM until 8 PM__. Doctors are assigned a __20 m
 The clinic has a __capacity of 5 medical rooms__, and there are __7 assigned doctors__.
 
 
------
-
-Please visit our site by going to https://uber-sante.herokuapp.com
-
-
------
-
 
 Made by: 
 
